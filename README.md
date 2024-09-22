@@ -10,7 +10,7 @@
 <a href="https://www.facebook.com/profile.php?id=100015211597203&mibextid=ZbWKwL">
   <img align="left" alt="Jaskirat's Facebook" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
 </a>
-<a href="https://open.spotify.com/user/Armando_Bae" target="_blank">
+<a href="https://open.spotify.com/user/31qvng57zctroekmvottuhq5ju4q?si=5V2WX6i2QZas4VkBBaRniA&utm_source=copy-link" target="_blank">
   <img align="left" alt="Spotify Profile" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/spotify.svg" />
 </a>
 
